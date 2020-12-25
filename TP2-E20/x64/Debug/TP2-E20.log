@@ -1,0 +1,13 @@
+﻿  Consultation.cpp
+  GestionnairePatients.cpp
+C:\Users\Lenovo\Desktop\TP2-E20\TP2-E20-Windows\TP2-E20\src\GestionnairePatients.cpp(147,34): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Hopital.cpp
+  Patient.cpp
+  Medecin.cpp
+  GestionnaireMedecins.cpp
+  main.cpp
+C:\Users\Lenovo\Desktop\TP2-E20\TP2-E20-Windows\TP2-E20\src\main.cpp(180): warning C4238: extension non standard utilisée : classe rvalue utilisée comme lvalue
+C:\Users\Lenovo\Desktop\TP2-E20\TP2-E20-Windows\TP2-E20\src\main.cpp(180,60): warning C4238: extension non standard utilisée : classe rvalue utilisée comme lvalue
+C:\Users\Lenovo\Desktop\TP2-E20\TP2-E20-Windows\TP2-E20\src\main.cpp(180,99): warning C4238: extension non standard utilisée : classe rvalue utilisée comme lvalue
+  Génération de code en cours...
+  TP2-E20.vcxproj -> C:\Users\Lenovo\Desktop\TP2-E20\TP2-E20-Windows\TP2-E20\x64\Debug\TP2-E20.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+  GestionnaireMedecins.cpp
+  Medecin.cpp
+  Génération de code en cours...
+C:\Users\Lenovo\Desktop\TP1-E20\TP1-E20-Windows\TP1-E20\src\GestionnaireMedecins.cpp(97): warning C4702: impossible d'atteindre le code
+C:\Users\Lenovo\Desktop\TP1-E20\TP1-E20-Windows\TP1-E20\src\GestionnaireMedecins.cpp(111): warning C4715: 'GestionnaireMedecins::chercherMedecin' : les chemins de contrôle ne retournent pas tous une valeur
+  TP1-E20.vcxproj -> C:\Users\Lenovo\Desktop\TP1-E20\TP1-E20-Windows\TP1-E20\x64\Debug\TP1-E20.exe

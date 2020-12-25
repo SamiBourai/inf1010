@@ -1,0 +1,3 @@
+0 "John Lourdes" "12/12/2001" "P001" 
+0 "George Lucas" "01/04/1984" "P002"
+1 "Christopher Lavoie" "01/04/1999" "PE001" "100001" "Polytechnique Montreal"

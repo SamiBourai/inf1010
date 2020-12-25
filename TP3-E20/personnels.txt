@@ -1,0 +1,4 @@
+0 "Lourdes John" "M001" 1
+0 "George Lucas" "M002" 2
+1 "Johnny Kharasan" "MR001" "09/09/1994" "111111" "UdeM" 1
+1 "Tomas Levacon" "MR002" "08/08/1996" "111112" "McGill" 1
